@@ -4,6 +4,6 @@
 <br>
 This is my first page!
 <br>
-Completed this Project!
+Completed this Project
 </body>
 </html>
